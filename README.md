@@ -63,6 +63,15 @@ This project involved designing a business intelligence solution using **Microso
 - Add predictive analytics using Python or R within Power BI  
 - Explore row-level security and report embedding options
 
+## 🚀 How to Open
+⚠️ GitHub does not support direct preview of .pbix files.
+
+To view the report:
+
+Click on Pizza Sales Analysis.pbix.
+Click "Download" or "View Raw" at the top right.
+Open the file using Power BI Desktop.
+
 
 
 
